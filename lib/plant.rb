@@ -12,3 +12,7 @@ class Plant
     @@all
   end
 end
+
+
+test_var = "Juice"
+puts "Hey, yall come get yall #{test_var}."
